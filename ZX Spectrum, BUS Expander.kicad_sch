@@ -4,6 +4,14 @@
 	(generator_version "8.0")
 	(uuid "b8011249-7664-4937-b060-b4ca50d9d5cb")
 	(paper "A4")
+	(title_block
+		(title "ZX Spectrum Nemo Bus & ZX Bus Expander")
+		(date "2024-10-22")
+		(rev "A")
+		(company "andykarpov production")
+		(comment 1 "Initial revision")
+		(comment 2 "Special Exclusive Kalantaj edition")
+	)
 	(lib_symbols
 		(symbol "+5V_1"
 			(power)
@@ -5494,6 +5502,10 @@
 		(uuid "54ce8766-402b-4bd9-9c63-fba62c7fc5ca")
 	)
 	(no_connect
+		(at 121.92 93.98)
+		(uuid "0b646729-5ba2-4c25-94e2-4d82b9a606a6")
+	)
+	(no_connect
 		(at 93.98 86.36)
 		(uuid "380649a4-b3b1-4f51-9700-5b74edea87c1")
 	)
@@ -6853,7 +6865,7 @@
 	)
 	(global_label "~{ROMCS}"
 		(shape input)
-		(at 121.92 93.98 0)
+		(at 121.92 68.58 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -6863,7 +6875,7 @@
 		)
 		(uuid "2dbf5306-68bb-4503-bfdf-321dbb35310e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.4132 93.98 0)
+			(at 129.4132 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7150,28 +7162,6 @@
 		(uuid "3f51fdec-a4d3-4e6a-abf3-f5ae6062666c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 63.0879 76.2 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "~{RDR}"
-		(shape input)
-		(at 121.92 68.58 0)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1 1)
-			)
-			(justify left)
-		)
-		(uuid "3f75b784-e611-42e5-87f5-e1819202a211")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 127.2703 68.58 0)
 			(effects
 				(font
 					(size 1.27 1.27)
