@@ -1368,8 +1368,8 @@
 		(uuid "7979980a-02a1-44c7-953d-cf71c5658b99")
 	)
 	(gr_line
-		(start 116.6716 122.4788)
-		(end 175.4378 122.4788)
+		(start 116.5653 122.4788)
+		(end 177.4378 122.4788)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1378,8 +1378,8 @@
 		(uuid "318d0c06-d8bf-4e00-b9d1-27e59fcaaeb5")
 	)
 	(gr_line
-		(start 114.6716 131.953)
-		(end 114.6716 122.4788)
+		(start 114.7779 131.3688)
+		(end 114.7779 122.4788)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1388,8 +1388,8 @@
 		(uuid "6a1889aa-e297-4786-8242-11c5aa539226")
 	)
 	(gr_line
-		(start 175.4378 139.2174)
-		(end 104.1146 139.2174)
+		(start 177.4378 139.2174)
+		(end 102.1146 139.2174)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1398,8 +1398,8 @@
 		(uuid "aec6c93b-2831-48c0-9879-d02c1e52a235")
 	)
 	(gr_line
-		(start 116.6716 131.953)
-		(end 114.6716 131.953)
+		(start 116.5653 131.3688)
+		(end 114.7779 131.3688)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1408,8 +1408,8 @@
 		(uuid "b2e8f542-dd74-40f1-8699-2d94fcf76876")
 	)
 	(gr_line
-		(start 114.6716 122.4788)
-		(end 104.1146 122.4788)
+		(start 114.7779 122.4788)
+		(end 102.1146 122.4788)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1418,8 +1418,8 @@
 		(uuid "c125a8ba-caba-444b-9c41-78b1754d0222")
 	)
 	(gr_line
-		(start 116.6716 122.4788)
-		(end 116.6716 131.953)
+		(start 116.5653 122.4788)
+		(end 116.5653 131.3688)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1428,8 +1428,8 @@
 		(uuid "e849db38-c385-4d78-bb2c-e149655ed7ac")
 	)
 	(gr_line
-		(start 104.1146 139.2174)
-		(end 104.1146 122.4788)
+		(start 102.1146 139.2174)
+		(end 102.1146 122.4788)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1438,8 +1438,8 @@
 		(uuid "e99f45ff-6142-4261-8470-e12c50f94a6d")
 	)
 	(gr_line
-		(start 175.4378 122.4788)
-		(end 175.4378 139.2174)
+		(start 177.4378 122.4788)
+		(end 177.4378 139.2174)
 		(stroke
 			(width 0.1)
 			(type default)
@@ -1447,7 +1447,7 @@
 		(layer "Edge.Cuts")
 		(uuid "f0035060-7e89-4cd7-a8cd-5edf5a3c1375")
 	)
-	(gr_text "andykarpov 2024"
+	(gr_text "(c) andykarpov production 2024. Special exclusive Kalantaj edition"
 		(at 174.0662 132.715 0)
 		(layer "B.SilkS")
 		(uuid "cc41e3b6-44e0-4611-8d5f-9bc2adc0e3f3")
@@ -1459,7 +1459,7 @@
 			(justify left bottom mirror)
 		)
 	)
-	(gr_text "ZX bus edge slot extender\n"
+	(gr_text "ZX bus edge slot extender rev.A\n"
 		(at 173.99 132.8928 0)
 		(layer "F.SilkS")
 		(uuid "c7f594a9-773b-4a89-9111-017006af8612")
@@ -1471,6 +1471,72 @@
 			)
 			(justify right bottom)
 		)
+	)
+	(dimension
+		(type aligned)
+		(layer "Dwgs.User")
+		(uuid "ce0d2b2b-6685-4142-8a3e-114021a63a14")
+		(pts
+			(xy 114.7064 131.3688) (xy 114.7064 122.5296)
+		)
+		(height -6.505894)
+		(gr_text "8.8392 mm"
+			(at 107.050506 126.9492 90)
+			(layer "Dwgs.User")
+			(uuid "ce0d2b2b-6685-4142-8a3e-114021a63a14")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
+	)
+	(dimension
+		(type aligned)
+		(layer "Dwgs.User")
+		(uuid "de61b7a9-43f4-4ae6-a433-94fec5ee0683")
+		(pts
+			(xy 114.7826 130.9116) (xy 116.5352 130.9116)
+		)
+		(height 3.1496)
+		(gr_text "1.7526 mm"
+			(at 115.6589 132.9112 0)
+			(layer "Dwgs.User")
+			(uuid "de61b7a9-43f4-4ae6-a433-94fec5ee0683")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+			)
+		)
+		(format
+			(prefix "")
+			(suffix "")
+			(units 3)
+			(units_format 1)
+			(precision 4)
+		)
+		(style
+			(thickness 0.15)
+			(arrow_length 1.27)
+			(text_position_mode 0)
+			(extension_height 0.58642)
+			(extension_offset 0.5) keep_text_aligned)
 	)
 	(segment
 		(start 105.4862 126.753)
