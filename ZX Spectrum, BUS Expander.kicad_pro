@@ -58,7 +58,14 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [],
+      "drc_exclusions": [
+        "silk_over_copper|101676200|83820000|4740059f-53b1-464b-afb6-1449e48a6770|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|103631705|84286119|6510f128-20aa-4046-806c-6b199c18b6e3|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|106027347|83986355|84771d04-068a-4265-b3b1-4456789d3bf5|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|109296200|83072404|0e0edb29-7460-477a-a5c4-b673a0967b4c|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|112565053|83653645|bd0b5c8f-d054-4c1e-b4f9-fc3c6904912a|00000000-0000-0000-0000-000000000000",
+        "silk_over_copper|114376200|83072404|a79c1ff0-f2cc-4e73-9a09-cf0bb5e90880|00000000-0000-0000-0000-000000000000"
+      ],
       "meta": {
         "version": 2
       },
@@ -79,6 +86,7 @@
         "footprint_type_mismatch": "ignore",
         "hole_clearance": "error",
         "hole_near_hole": "error",
+        "holes_co_located": "warning",
         "invalid_outline": "error",
         "isolated_copper": "warning",
         "item_on_disabled_layer": "error",
@@ -495,6 +503,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "bom_export_filename": "",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
