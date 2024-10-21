@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP PTS526_SM15_SMTR2_LFS
-D Tactile Switches 50mA 12VDC, 5.2x5.2mm, 1.5mm H, 160gf, G leads, No ground pin, metal actuator
-K
-F 
-$ENDCMP
-#
-#End Doc Library

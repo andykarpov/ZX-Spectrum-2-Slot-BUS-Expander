@@ -980,6 +980,17 @@
 			(pintype "input")
 			(uuid "5aeb13d4-2ad0-4aac-ba65-2e7ab26c708f")
 		)
+		(model "/home/andy/Documents/Projects/kicad/libraries/retro/3d/6-5530843-5--3DModel-STEP-1.STEP"
+			(offset
+				(xyz 0 0 15.5)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
 	)
 	(footprint "Button_Switch_THT:SW_PUSH_6mm"
 		(layer "F.Cu")
