@@ -5837,6 +5837,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 157.48) (xy 181.61 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "03e98ba6-060c-481c-a381-de72df2dc266")
+	)
+	(wire
+		(pts
 			(xy 121.92 68.58) (xy 128.27 68.58)
 		)
 		(stroke
@@ -5887,16 +5897,6 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 133.35) (xy 163.83 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "0cfc1b87-4c52-448e-84f3-19ad25689cb0")
-	)
-	(wire
-		(pts
 			(xy 213.36 132.08) (xy 217.17 132.08)
 		)
 		(stroke
@@ -5914,6 +5914,16 @@
 			(type default)
 		)
 		(uuid "0f2a4c67-393e-4fa9-afc5-82508098fe08")
+	)
+	(wire
+		(pts
+			(xy 162.56 157.48) (xy 163.83 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "104c226a-069a-4bb3-82d3-0d2fa3716784")
 	)
 	(wire
 		(pts
@@ -5944,6 +5954,16 @@
 			(type default)
 		)
 		(uuid "1e924642-ec81-4c14-abc8-c02590279eb6")
+	)
+	(wire
+		(pts
+			(xy 162.56 146.05) (xy 163.83 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27cd069c-0a34-4ba6-89fe-9d462af5b1a2")
 	)
 	(wire
 		(pts
@@ -5997,6 +6017,16 @@
 	)
 	(wire
 		(pts
+			(xy 162.56 125.73) (xy 163.83 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4819ed6e-c764-466a-990f-73c6e2ccd223")
+	)
+	(wire
+		(pts
 			(xy 71.12 130.81) (xy 71.12 129.54)
 		)
 		(stroke
@@ -6027,6 +6057,26 @@
 	)
 	(wire
 		(pts
+			(xy 181.61 125.73) (xy 180.34 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f3c649f-1261-41b0-a129-b69ff7a4ae9a")
+	)
+	(wire
+		(pts
+			(xy 171.45 146.05) (xy 172.72 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fffe74e-e0e2-44b8-b4bc-ca6b5f6fc4a7")
+	)
+	(wire
+		(pts
 			(xy 77.47 45.72) (xy 77.47 48.26)
 		)
 		(stroke
@@ -6047,6 +6097,16 @@
 	)
 	(wire
 		(pts
+			(xy 171.45 135.89) (xy 172.72 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55c7ae8a-c957-4375-a368-a7c1a4232229")
+	)
+	(wire
+		(pts
 			(xy 137.16 133.35) (xy 137.16 143.51)
 		)
 		(stroke
@@ -6054,6 +6114,26 @@
 			(type default)
 		)
 		(uuid "5830d592-0047-48fa-954f-6257ddf03595")
+	)
+	(wire
+		(pts
+			(xy 162.56 135.89) (xy 163.83 135.89)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59dffca5-5738-4977-ad48-019686e37f5c")
+	)
+	(wire
+		(pts
+			(xy 224.79 144.78) (xy 226.06 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c264028-e433-4562-8548-3b12ed0ea2f0")
 	)
 	(wire
 		(pts
@@ -6107,13 +6187,13 @@
 	)
 	(wire
 		(pts
-			(xy 195.58 133.35) (xy 195.58 129.54)
+			(xy 181.61 135.89) (xy 180.34 135.89)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7a5388dd-2acc-40cf-a6f7-d77f286d22e3")
+		(uuid "848d2c33-035e-4de4-9593-35ee2015ea44")
 	)
 	(wire
 		(pts
@@ -6137,16 +6217,6 @@
 	)
 	(wire
 		(pts
-			(xy 153.67 130.81) (xy 153.67 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "92ebb74c-04af-4b10-b8df-b489733cb89e")
-	)
-	(wire
-		(pts
 			(xy 71.12 140.97) (xy 71.12 142.24)
 		)
 		(stroke
@@ -6154,16 +6224,6 @@
 			(type default)
 		)
 		(uuid "93d6b49d-fa93-4d08-893c-19a1beb52e9e")
-	)
-	(wire
-		(pts
-			(xy 185.42 133.35) (xy 195.58 133.35)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9af1660d-4c1f-4f5e-816c-267a68450762")
 	)
 	(wire
 		(pts
@@ -6207,6 +6267,16 @@
 	)
 	(wire
 		(pts
+			(xy 215.9 144.78) (xy 217.17 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3bfc424-f735-41c7-8ddd-58462008b6db")
+	)
+	(wire
+		(pts
 			(xy 129.54 73.66) (xy 128.27 73.66)
 		)
 		(stroke
@@ -6237,7 +6307,17 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 133.35) (xy 177.8 133.35)
+			(xy 171.45 157.48) (xy 172.72 157.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c229f14d-6798-481a-b852-859e02635a22")
+	)
+	(wire
+		(pts
+			(xy 171.45 125.73) (xy 172.72 125.73)
 		)
 		(stroke
 			(width 0)
@@ -6327,6 +6407,16 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 144.78) (xy 233.68 144.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "db017474-de8f-499b-bc44-e3353c99e506")
+	)
+	(wire
+		(pts
 			(xy 87.63 138.43) (xy 87.63 139.7)
 		)
 		(stroke
@@ -6374,6 +6464,16 @@
 			(type default)
 		)
 		(uuid "f591a3eb-69dc-496e-9ae1-2c8248b474b9")
+	)
+	(wire
+		(pts
+			(xy 180.34 146.05) (xy 181.61 146.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa0cbb8a-d3f3-4625-a510-7246145e9616")
 	)
 	(wire
 		(pts
@@ -11355,6 +11455,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 176.53 146.05 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "14f6676a-7879-47eb-96a9-d1365ac06458")
+		(property "Reference" "D3"
+			(at 176.784 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "-5V"
+			(at 176.784 149.86 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 176.53 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 176.53 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "eb3f6609-8d92-4a19-b904-2a61eee8d9bf")
+		)
+		(pin "1"
+			(uuid "4c18097a-8203-4804-a2b4-b60e0d1b56b4")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "D3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:+5V")
 		(at 77.47 27.94 0)
 		(unit 1)
@@ -11672,6 +11839,73 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 229.87 144.78 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "431e441a-4da9-4bc6-8306-076692b83130")
+		(property "Reference" "D5"
+			(at 229.616 138.43 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+9V"
+			(at 229.616 140.97 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 229.87 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 229.87 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 229.87 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "682e257d-07b5-404f-99e6-38d03a37279c")
+		)
+		(pin "1"
+			(uuid "607d59d0-48f3-44d9-8307-bda9960dc61d")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "D5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 87.63 142.24 0)
 		(mirror x)
@@ -11863,6 +12097,139 @@
 			(project "ZX Spectrum, BUS Expander"
 				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
 					(reference "H1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "VCC_1")
+		(lib_id "power:VCC")
+		(at 162.56 135.89 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "51f90c94-3a07-4063-a8aa-9e26f4e80dc1")
+		(property "Reference" "#PWR012"
+			(at 166.37 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+12V"
+			(at 157.48 135.89 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 162.56 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "bf09261f-286e-4aaf-a4fd-479c1b8ba5bb")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "#PWR012")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 234.95 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "54c0d63d-654c-4712-ba71-d7434a2de6c5")
+		(property "Reference" "#PWR028"
+			(at 241.3 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 238.76 144.7799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 234.95 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 234.95 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 234.95 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ecb14b61-0e58-432a-89b5-70ba77e611b6")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "#PWR028")
 					(unit 1)
 				)
 			)
@@ -12516,7 +12883,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 167.64 133.35 90)
+		(at 167.64 125.73 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12525,7 +12892,7 @@
 		(fields_autoplaced yes)
 		(uuid "70f6392c-b8da-4a65-b869-dbf6e5f860a2")
 		(property "Reference" "R2"
-			(at 167.64 127 90)
+			(at 167.64 119.38 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12533,7 +12900,7 @@
 			)
 		)
 		(property "Value" "680"
-			(at 167.64 129.54 90)
+			(at 167.64 121.92 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12541,7 +12908,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
-			(at 167.64 135.128 90)
+			(at 167.64 127.508 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12550,7 +12917,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 167.64 133.35 0)
+			(at 167.64 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12559,7 +12926,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 167.64 133.35 0)
+			(at 167.64 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12847,6 +13214,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 181.61 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8ab48e28-b657-44cd-aa91-8c112e4396b6")
+		(property "Reference" "#PWR026"
+			(at 187.96 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.42 157.4799 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 181.61 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 181.61 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f1f55aba-a154-44ba-8577-320311e07e15")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "#PWR026")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:PWR_FLAG")
 		(at 87.63 129.54 0)
 		(unit 1)
@@ -12907,6 +13341,74 @@
 			(project "ZX Spectrum, BUS Expander"
 				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
 					(reference "#FLG02")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 220.98 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "90ef1487-6ed6-4658-95fd-693892620d47")
+		(property "Reference" "R9"
+			(at 220.98 138.43 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "680"
+			(at 220.98 140.97 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 220.98 146.558 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 220.98 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 220.98 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9d0820fe-49f2-4cbb-9db3-5c6f16046465")
+		)
+		(pin "1"
+			(uuid "94792a17-eadc-4f7d-b1c5-2be2823e244a")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "R9")
 					(unit 1)
 				)
 			)
@@ -13178,6 +13680,73 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 181.61 135.89 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a13db454-56e3-4df3-924d-df717b945fb5")
+		(property "Reference" "#PWR017"
+			(at 187.96 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.42 135.8899 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 181.61 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 181.61 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ae105f79-b1fa-430a-b0ed-8e1e90a54e60")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "#PWR017")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 93.98 40.64 90)
 		(unit 1)
@@ -13370,6 +13939,140 @@
 			(project "ZX Spectrum, BUS Expander"
 				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
 					(reference "TP4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 167.64 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b99871d7-3b7a-4cbf-ae74-8c462294f412")
+		(property "Reference" "R8"
+			(at 167.64 151.13 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 167.64 153.67 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 167.64 159.258 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 167.64 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 167.64 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "6f0613e4-5c73-4353-a587-37920f94a4a2")
+		)
+		(pin "1"
+			(uuid "eb9a5f43-649e-4574-8471-6464b3f2ae9a")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "VCC_1")
+		(lib_id "power:VCC")
+		(at 215.9 144.78 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ba4b871c-dfc0-4644-95b6-8a7f139d3c4c")
+		(property "Reference" "#PWR027"
+			(at 219.71 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+9V"
+			(at 210.82 144.78 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 215.9 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 215.9 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 215.9 144.78 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "30f21ef8-ab1f-4d89-8388-a10f7d1ab499")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "#PWR027")
 					(unit 1)
 				)
 			)
@@ -13641,7 +14344,7 @@
 	(symbol
 		(lib_name "VCC_1")
 		(lib_id "power:VCC")
-		(at 153.67 130.81 0)
+		(at 162.56 125.73 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13649,7 +14352,7 @@
 		(dnp no)
 		(uuid "cc3e66c6-d985-40d1-b00a-76cebaeed6da")
 		(property "Reference" "#PWR07"
-			(at 153.67 134.62 0)
+			(at 166.37 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13658,7 +14361,7 @@
 			)
 		)
 		(property "Value" "VCC"
-			(at 153.67 125.73 0)
+			(at 157.48 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13666,7 +14369,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 153.67 130.81 0)
+			(at 162.56 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13675,7 +14378,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 130.81 0)
+			(at 162.56 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13684,7 +14387,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"VCC\""
-			(at 153.67 130.81 0)
+			(at 162.56 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13706,24 +14409,23 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 181.61 133.35 180)
+		(at 176.53 125.73 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "cfb509ac-433d-4b2a-ba3c-bfb230277e3e")
 		(property "Reference" "D1"
-			(at 183.1975 125.73 0)
+			(at 176.276 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "LED"
-			(at 183.1975 128.27 0)
+		(property "Value" "+5V"
+			(at 176.276 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13731,7 +14433,7 @@
 			)
 		)
 		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
-			(at 181.61 133.35 0)
+			(at 176.53 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13740,7 +14442,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 181.61 133.35 0)
+			(at 176.53 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13749,7 +14451,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 181.61 133.35 0)
+			(at 176.53 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13774,7 +14476,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 195.58 129.54 180)
+		(at 181.61 125.73 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13783,7 +14485,7 @@
 		(fields_autoplaced yes)
 		(uuid "d5a449ac-9607-49eb-a407-42912b876dd4")
 		(property "Reference" "#PWR013"
-			(at 195.58 123.19 0)
+			(at 187.96 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13792,15 +14494,16 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 195.58 124.46 0)
+			(at 185.42 125.7299 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
+				(justify right)
 			)
 		)
 		(property "Footprint" ""
-			(at 195.58 129.54 0)
+			(at 181.61 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13809,7 +14512,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 195.58 129.54 0)
+			(at 181.61 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13818,7 +14521,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 195.58 129.54 0)
+			(at 181.61 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13899,6 +14602,73 @@
 			(project "ZX Spectrum, BUS Expander"
 				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
 					(reference "#PWR014")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 176.53 135.89 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d81adb46-35eb-4186-8c2f-8f55d8db30d1")
+		(property "Reference" "D2"
+			(at 176.276 129.54 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "+12V"
+			(at 176.276 132.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 176.53 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 176.53 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "003a29b5-6764-4343-b2d3-71c6d5528308")
+		)
+		(pin "1"
+			(uuid "4b61e316-2311-40d1-9568-743096b80be1")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "D2")
 					(unit 1)
 				)
 			)
@@ -14354,6 +15124,340 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 181.61 146.05 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eb2fcfd8-fbb3-4cc1-a196-8b572d808f13")
+		(property "Reference" "#PWR024"
+			(at 187.96 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 185.42 146.0499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" ""
+			(at 181.61 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 181.61 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 181.61 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c1a6935-8170-4009-aa3b-3d630d222a78")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "#PWR024")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "VCC_1")
+		(lib_id "power:VCC")
+		(at 162.56 157.48 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "ec3596db-a381-4142-9691-31eac5e8353c")
+		(property "Reference" "#PWR025"
+			(at 166.37 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-12V"
+			(at 157.48 157.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 162.56 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "ee45ce58-da78-4a8d-b123-88242aa7d98c")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "#PWR025")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 167.64 135.89 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ef3fcfa5-747c-4f17-a922-a8fbf1b11a3f")
+		(property "Reference" "R6"
+			(at 167.64 129.54 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "1k"
+			(at 167.64 132.08 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 167.64 137.668 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 167.64 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 167.64 135.89 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "4e2f1736-efe7-4df5-811d-a6ec50c41ac4")
+		)
+		(pin "1"
+			(uuid "12b709b1-90e4-400c-a329-b64f5660afbf")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_name "VCC_1")
+		(lib_id "power:VCC")
+		(at 162.56 146.05 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "efdde6d8-eb3b-4701-913a-d4e981a3116c")
+		(property "Reference" "#PWR023"
+			(at 166.37 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "-5V"
+			(at 157.48 146.05 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 162.56 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 162.56 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"VCC\""
+			(at 162.56 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fa31cde0-bf1e-4962-b52a-6f2530c8d6d5")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "#PWR023")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:LED")
+		(at 176.53 157.48 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f3f72878-18e3-4f28-b48e-5ecb2bce7549")
+		(property "Reference" "D4"
+			(at 176.784 163.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "-12V"
+			(at 176.784 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric_Pad1.15x1.40mm_HandSolder"
+			(at 176.53 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 176.53 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 176.53 157.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "395d289f-8a39-441c-a18c-cf42226599e4")
+		)
+		(pin "1"
+			(uuid "5cb810e0-3445-4081-9444-4f6d20be7f4d")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 93.98 106.68 270)
 		(unit 1)
 		(exclude_from_sim no)
@@ -14546,6 +15650,74 @@
 			(project "ZX Spectrum, BUS Expander"
 				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
 					(reference "#PWR011")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 167.64 146.05 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fbabc8ba-1b6f-48bd-99cf-8a07b85da9bc")
+		(property "Reference" "R7"
+			(at 167.64 139.7 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "680"
+			(at 167.64 142.24 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 167.64 147.828 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 167.64 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 167.64 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "b1faf498-dec4-40c3-ab25-c4f26862ee65")
+		)
+		(pin "1"
+			(uuid "2bfab6bf-52ec-4b5b-b9fc-ebaa1c3a37df")
+		)
+		(instances
+			(project "ZX Spectrum, BUS Expander"
+				(path "/b8011249-7664-4937-b060-b4ca50d9d5cb"
+					(reference "R7")
 					(unit 1)
 				)
 			)
